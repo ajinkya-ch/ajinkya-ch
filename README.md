@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://dlpng.com/png/6349225)
+![](fsda.gif)
 <!--
 **ajinkya-ch/ajinkya-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
