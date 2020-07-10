@@ -1,5 +1,5 @@
 ### Hey there 👋
-![](123.png)
+![](123.jpg)
 
 - 🔭 I’m a Computer Engineering Student.
 - 👯 I’m looking to collaborate on Machine Learning projects!
