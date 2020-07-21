@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Computer Vision :zap: | Open-Source :fire:	
+-  **Interests :** Computer Vision :zap: | Natural Language Processing :fire:	
 -  **Languages :** Python, C, C++
 -  **Hobbies :** Football :soccer:
 -  **Fact :** You only get what you work for :heart: 
