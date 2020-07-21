@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, my name's Ajinkya</h1>
-<h3 align="center">A Computer Engineering Student from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya-ch" alt="ajinkya-ch" /> </p>
+### Hi there 👋
 
-- 📫 How to reach me **ajinkyachaudhari@acm.org**
+### Isha Gupta 
+[![Instagram Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://www.instagram.com/ajinkya_ch/)](https://www.instagram.com/ajinkya_ch)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajinkya-chaudhari//)](https://www.linkedin.com/in/ajinkya-chaudhari/) [![Gmail Badge](https://img.shields.io/badge/-ajinkyajc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajinkyajc@gmail.com)](mailto:ajinkyajc@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center">
-<a href="https://linkedin.com/in/ajinkya-chaudhari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajinkya-chaudhari" height="20" width="20" /></a>
-</p>
+-  **Learning :** Computer Vision :zap: | Open-Source :fire:	
+-  **Languages :** Python, C, C++
+-  **Hobbies :** Football :football:
+-  **Fact :** You only get what you work for :heart: 
+-  **Organisation :** Vishwakarma Institute of Technology
