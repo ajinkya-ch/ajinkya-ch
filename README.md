@@ -2,9 +2,6 @@
 
 # Ajinkya Chaudhari
 
-[![Gmail Badge](https://img.shields.io/badge/-ajinkyajc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajinkyajc@gmail.com)](mailto:ajinkyajc@gmail.com)  
-[![Linkedin Badge](https://img.shields.io/badge/-Ajinkya_Chaudhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajinkya-chaudhari/)](https://www.linkedin.com/in/ajinkya-chaudhari/)
-
 ---
 
 🎓 **M.S. in Computer Science** – University of California, Davis (4.0 GPA)  
@@ -23,4 +20,4 @@
 
 ### Connect with me!
 I’m actively looking for opportunities in **backend engineering**, **infrastructure**, or **ML systems**.  
-Reach out via [email](mailto:ajinkyajc@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ajinkya-chaudhari/).
+Reach out via [email](mailto:ajch@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ajinkya-chaudhari/).
